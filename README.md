@@ -4,10 +4,8 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 ### 🧰 My Expertise
 - Microsoft Azure 💠
 - Shell Scripting 🐚
-- Application Development 🧑🏻‍💻
-- DevOps principles ♾
-- Agile Methodologies ⚡️
-- Cloud Computing ☁️
+- DevOps principles & Agile Methodologies ♾⚡️
+- Cloud Computing (Azure, AWS, IBM Cloud) ☁️
 
 ### 🛠 My Tools
 - Linux ubuntu 🐧
@@ -17,9 +15,6 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 
 ### 👨🏻‍💻 Programming Languages
 - Python 🐍
-  - Flask 
-  - Jinja2 templates
-  - Pandas
 - Bash 🐧
 - JavaScript | TypeScript 💠
 
