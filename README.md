@@ -2,9 +2,9 @@
 I'm a DevOps Engineer with a passion for Cloud-native application development ♾⚡️☁️
 
 ### 🧰 My Expertise
-- Microsoft Azure 💠
-- Shell Scripting 🐚
 - DevOps principles & Agile Methodologies ♾⚡️
+- Application Development 👨🏻‍💻
+- Shell Scripting 🐚
 - Cloud Computing | Azure, AWS, IBM Cloud ☁️
 
 ### 🛠 My Tools
