@@ -34,16 +34,4 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 - Scientific Computing with Python by FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
 - Microsoft Azure AZ-900 Exam prep Specialization
 
-### ✍🏼 Currently learning
-- Preparing for Microsoft Azuree AZ-900 Exam 💠
-- IP and Networking 🌐
-
-### 🧑🏻‍💻 Currently Working
-- A cloud-native social media for artscene 
-
-### 📫 Let's get in touch!
-- Email: samanxsy@gmail.com
-- Linkedin: [Saman Saybani](https://www.linkedin.com/in/samansaybani/)
-- Twitter: [samanxsy](https://twitter.com/samanxsy)
-
 Thanks for checking me out!
