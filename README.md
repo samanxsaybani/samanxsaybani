@@ -27,4 +27,4 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 ### 👨🏻‍💻 Currently working
 - An artscene social media
 
-Thanks for checking me out!
+### 👀 Thanks for checking me out 👀!
