@@ -28,3 +28,4 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 - An artscene social media
 
 ### 👀 Thanks for checking me out 👀!
+- Contact me via samanxsy@gmail.com 📧
