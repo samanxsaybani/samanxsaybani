@@ -25,7 +25,7 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 - Microsoft Azure AZ-900 Exam prep Specialization
 
 #### 👨🏻‍💻 Currently working
-- An artscene social media
+- An exhibition finder & artscene social media
 
 ### 👀 Thanks for checking me out 👀!
 - Contact me via samanxsy@gmail.com 📧
