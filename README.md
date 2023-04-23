@@ -1,5 +1,5 @@
 ### Hey there, This is Saman! 👋
-I'm a DevOps Engineer with a passion for Cloud-native application development ♾⚡️☁️
+I'm a DevOps Engineer with a passion for Cloud-native application development ⚡️♾☁️
 
 #### 🧰 My Expertise
 - DevOps principles & Agile Methodologies ♾⚡️
