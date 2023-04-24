@@ -10,8 +10,8 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 #### 🛠 My Tools
 - Linux ubuntu 🐧
 - Terrafrom and Azure ARM templates 📝
-- Docker, Kubernetes, OpenShift, and Azure Kubernetes Service 🚢
-- Prometheus, Grafana, and Azure Monitor 🖥
+- Docker, Kubernetes, and Azure Kubernetes Service 🚢
+- Prometheus, and Azure Monitor 🖥
 
 #### 👨🏻‍💻 Programming Languages
 - Python 🐍
