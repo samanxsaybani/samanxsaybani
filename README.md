@@ -22,7 +22,7 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 - Fundamentals of Computing Spicalization from Rice University's online CS program | [Mini Projects Repo](https://github.com/samanxsy/Rice-university-mini-projects)
 - IBM DevOps & Software Engineering Professional Certificate | [Capstone Project Repo](https://github.com/samanxsy/devops-capstone-project)
 - Scientific Computing with Python by FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
-- Microsoft Azure AZ-900 Exam prep Specialization
+- Microsoft Azure Fundamentals Specialization
 - Mathematics Diploma
 
 #### 👨🏻‍💻 Currently working
