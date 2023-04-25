@@ -1,17 +1,15 @@
 ### Hey there, This is Saman! 👋
-I'm a DevOps Engineer with a passion for Cloud-native application development ⚡️♾☁️
+I'm a DevOps Engineer with a passion for automation, and cloud-native applications ⚡️♾☁️
 
 #### 🧰 My Expertise
-- DevOps principles & Agile Methodologies ♾⚡️
-- Application Development 👨🏻‍💻
-- Shell Scripting 🐚
+- DevOps principles & Agile Application Development ♾⚡️
+- Shell Scripting & Automation 🐚
 - Cloud Computing | Azure, AWS, IBM Cloud ☁️
 
 #### 🛠 My Tools
-- Linux ubuntu 🐧
-- Terrafrom and Azure ARM templates 📝
+- Linux 🐧
+- Terrafrom & Ansible 📝
 - Docker, Kubernetes, and Azure Kubernetes Service 🚢
-- Prometheus, and Azure Monitor 🖥
 
 #### 👨🏻‍💻 Programming Languages
 - Python 🐍
@@ -28,4 +26,4 @@ I'm a DevOps Engineer with a passion for Cloud-native application development �
 #### 👨🏻‍💻 Currently working
 - An exhibition finder & artscene social media
 
-### 👀 Thanks for checking me out 👀!
+### 👀 Now that you're here, Check out my pin repos 👀!
