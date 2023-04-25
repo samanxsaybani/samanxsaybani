@@ -17,7 +17,4 @@ Python🐍, Bash🐧, JavaScript & TypeScript💠. I'm comfortable with backened
 - Microsoft Azure Fundamentals Specialization & AWS Practitioner Essentials
 - Mathematics Diploma
 ---
-#### 👨🏻‍💻 Currently working on
-- An exhibition finder application
----
 ### Contact me via | [Linkedin](https://www.linkedin.com/in/samansaybani/)
