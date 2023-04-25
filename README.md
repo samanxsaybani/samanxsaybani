@@ -16,5 +16,3 @@ Python🐍, Bash🐧, JavaScript & TypeScript💠. I'm comfortable with backened
 - Scientific Computing with Python by FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
 - Microsoft Azure Fundamentals Specialization & AWS Practitioner Essentials
 - Mathematics Diploma
----
-### Contact me via | [Linkedin](https://www.linkedin.com/in/samansaybani/)
