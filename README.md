@@ -10,7 +10,7 @@ Linux for my working environment 🐧, Terrafrom & Ansible for automating & mana
 #### 👨🏻‍💻 Programming Languages I use are
 Python🐍, Bash🐧, JavaScript & TypeScript💠. I'm comfortable with backened development with python, and task scripting with both python & bash. And for front-end, I can utilize JavaScript & TypeScript to fulfill the needs!
 
-#### 📚 Education & Certificates I obtaineed include:
+#### 📚 Education & Certificates I obtained include:
 - Fundamentals of Computing Specialization from Rice University's online CS program | [Mini Projects Repo](https://github.com/samanxsy/Rice-university-mini-projects)
 - IBM DevOps & Software Engineering Professional Certificate | [Capstone Project Repo](https://github.com/samanxsy/devops-capstone-project)
 - Scientific Computing with Python by FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
