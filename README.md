@@ -2,7 +2,7 @@
 I'm a DevOps Engineer with a passion for automation, and cloud-native applications ⚡️♾☁️
 
 #### 🧰 My Expertise are in:
-DevOps principles & Agile Application Development⚡️, Shell Scripting & Automation🐚, CI/CD pipelines configuration with GitHub Actions && Jenkins♾, Cloud Computing with Azure & AWS☁️, and containers & microservices architecture!
+DevOps principles & Agile Application Development⚡️, Shell Scripting & Automation🐚, CI/CD pipelines configuration with GitHub Actions ♾, Cloud Computing with Azure & AWS☁️, and containers & microservices architecture!
 
 #### 🛠 I work with tools such as:
 Linux for my working environment 🐧, Terrafrom & Ansible for automating & managing cloud infrastructure 📝, Docker & Kubernetes for containerization & orchestration 🚢, and any new tool that would come handy!
