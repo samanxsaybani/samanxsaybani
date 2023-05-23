@@ -1,14 +1,15 @@
 ### Hey there, This is Saman! 👋
 I'm a DevOps Engineer with a passion for automation, and cloud-native applications ⚡️♾☁️
+Patient on problem-solving, I value collaborative, agile teams where constantly improving and delivering is the goal. I'm eager to undertake self-taught processes and search for new solutions, and I find great joy in continuously learning and expanding my skill set.
 
 #### 🧰 My Expertise are in:
-DevOps principles & Agile Application Development⚡️, Shell Scripting & Automation🐚, CI/CD pipelines configuration♾, Infrastructure management, Cloud Computing with AWS, Azure, and IBM Cloud☁️, and Containerization technologies!
+Shell Scripting & Automation🐚, Containerization technologies📦, CI/CD pipelines configuration♾, Infrastructure management👷🏼, Cloud Computing with AWS, Azure, and IBM Cloud☁️, DevOps principles, and Agile Application Development⚡️
 
-#### 🛠 I work with tools such as:
-Linux for my working environment 🐧, Docker & Kubernetes for containers & orchestration🚢, Jenkins & GitHub Actions for CI/CD pipeline configurations♾, Terrafrom & Ansible for automating & managing cloud infrastructure📝, Postgres databases, and any new tool that would come handy!
+#### 🛠 The tools I use and worked with include:
+Linux as the platform of my choice 🐧, Docker & Kubernetes for containers & orchestration🚢, Jenkins & GitHub Actions for CI/CD pipelines♾, Terrafrom & Ansible for automating & managing cloud infrastructure📝, Postgres databases, and any new tool that would come handy!
 
 #### 👨🏻‍💻 Programming Languages I use are
-Python🐍, Bash🐧, JavaScript & TypeScript💠. I'm comfortable with backened development with python, and scripting with both python & bash. And for front-end, I can utilize JavaScript & TypeScript to fulfill the needs!
+Python🐍, Bash🐧, JavaScript💠, and SQL. I'm comfortable with application development with python, and scripting with both python & bash. Also, I can utilize JavaScript & SQL when required!
 
 #### 📚 Education & Certificates I obtained include:
 - Fundamentals of Computing Specialization from Rice University's online CS program | [Mini Projects Repo](https://github.com/samanxsy/Rice-university-mini-projects)
