@@ -6,7 +6,7 @@ Patient on problem-solving, I value collaborative, agile teams where constantly 
 Shell Scripting & Automation🐚, Containerization technologies📦, CI/CD pipelines configuration♾, Infrastructure management👷🏼, Cloud Computing with AWS, Azure, and IBM Cloud☁️, DevOps principles, and Agile Application Development⚡️
 
 #### 🛠 The tools I use and worked with include:
-Linux as the platform of my choice 🐧, Docker & Kubernetes for containers & orchestration🚢, Jenkins & GitHub Actions for CI/CD pipelines♾, Terrafrom & Ansible for automating & managing cloud infrastructure📝, Postgres databases, and any new tool that would come handy!
+Linux as the platform of my choice 🐧, Docker & Kubernetes for containerizing & orchestration🚢, Jenkins & GitHub Actions for CI/CD pipelines♾, Terrafrom & Ansible for automating & managing cloud infrastructure📝, Postgres for relational databases, and any new tool that would come handy!
 
 #### 👨🏻‍💻 Programming Languages I use are
 Python🐍, Bash🐧, JavaScript💠, and SQL. I'm comfortable with application development with python, and scripting with both python & bash. Also, I can utilize JavaScript & SQL when required!
