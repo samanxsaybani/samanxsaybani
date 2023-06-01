@@ -9,6 +9,7 @@ Patient on problem-solving, I value collaborative, agile teams where constantly 
 - Docker • Kubernetes | AWS EKS
 - Terraform • Ansible
 - GitHub Actions • Jenkins
+- Prometheus
 - PostgreSQL
 - Azure • AWS • IBM Cloud
 - Cloud Networking
