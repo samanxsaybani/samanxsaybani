@@ -3,9 +3,9 @@ I'm a DevOps Engineer with passion for automation, Linux Systems, and cloud-nati
 Patient on problem-solving, I value collaborative, agile teams where constantly improving and delivering is the goal. I'm eager to undertake self-taught processes and search for new solutions, and I find great joy in continuously learning and expanding my skill set.
 
 #### 🧰 ToolBox & Skills
-- Linux | ubuntu, RedHat
+- Linux System Administration | ubuntu, RedHat
 - Bash • Python • SQL • JavaScript
-- Shell Scripting | CLIs
+- Shell Scripting
 - Docker • Kubernetes | AWS EKS
 - Terraform • Ansible
 - GitHub Actions • Jenkins
