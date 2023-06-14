@@ -1,5 +1,5 @@
 ### Hey there, This is Saman! 👋
-I'm passionate for automation, Linux Systems, and cloud-native applications ⚡️♾☁️
+I'm passionate about automation, Linux Systems, and cloud-native applications ⚡️♾☁️
 Patient on problem-solving, I value collaborative, agile teams where constantly improving and delivering is the goal. I'm eager to undertake self-taught processes and search for new solutions, and I find great joy in continuously learning and expanding my skill set.
 
 #### 🧰 ToolBox & Skills
