@@ -2,17 +2,15 @@
 I'm passionate about automation, Linux Systems, and cloud-native applications ⚡️♾☁️
 Patient on problem-solving, I value collaborative, agile teams where constantly improving and delivering is the goal. I'm eager to undertake self-taught processes and search for new solutions, and I find great joy in continuously learning and expanding my skill set.
 
-#### 🧰 ToolBox & Skills
-- Linux System Administration | ubuntu, RedHat
-- Bash • Python • SQL • JavaScript
-- Shell Scripting
+#### 🧰 ToolBox
+- Linux Machines (Ubuntu, RedHat)
+- Python • Go • Bash • SQL • JavaScript
 - Docker • Kubernetes | AWS EKS
 - Terraform • Ansible
 - GitHub Actions • Jenkins
 - Prometheus
 - PostgreSQL
 - Azure • AWS • IBM Cloud
-- Cloud Networking
 
 #### 📚 Education & Certificates
 - Fundamentals of Computing Specialization - Rice University's online CS program | [CS Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
