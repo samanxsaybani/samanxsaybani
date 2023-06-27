@@ -13,7 +13,7 @@ Patient in problem-solving, I value collaborative, agile teams where constantly 
 - Azure • AWS • IBM Cloud
 
 #### 📚 Education & Certificates
-- Fundamentals of Computing Specialization - Rice University's online CS program | [CS Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
+- Computer Science Specialization - Rice University eCourse | [CS Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
 - IBM DevOps & Software Engineering Professional Certificate | [Capstone Project Repo](https://github.com/samanxsy/devops-capstone-project)
 - DevOps on AWS Specialization | [Infrastructure as Code](https://github.com/samanxsy/Terraform)
 - Scientific Computing with Python - FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
