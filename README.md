@@ -14,7 +14,7 @@ Patient in problem-solving, I value collaborative, agile teams where constantly 
 
 ### 📚 Education & Certificates
 - Computer Science Specialization - Rice University eCourse | [CS Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
-- IBM DevOps & Software Engineering Professional Certificate | [Capstone Project Repo](https://github.com/samanxsy/devops-capstone-project)
+- IBM DevOps & Software Engineering Professional Certificate | [Certificate](https://coursera.org/share/c5055d7c2b497e4cf7faae9746c4f495) | [Capstone Project Repo](https://github.com/samanxsy/devops-capstone-project)
 - DevOps on AWS Specialization | [Certificate](https://coursera.org/share/6122e2fba8b5c109afb3997b7f855f9b)
 - Scientific Computing with Python - FreeCodeCamp | [Final Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
 - Microsoft Azure Fundamentals Specialization | [Infrastructure as Code](https://github.com/samanxsy/Terraform)
