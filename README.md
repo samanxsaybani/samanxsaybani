@@ -1,21 +1,13 @@
 ## Hey there, This is Saman! 👋
-I'm passionate about automation, Linux Systems, and cloud-native solutions ⚡️♾☁️
-Patient in problem-solving, I value collaborative, agile teams where constantly improving and delivering is the goal. I'm eager to undertake self-taught processes and search for new solutions, and I find great joy in continuously learning and expanding my skill set.
+I'm passionate about cloud-native solutions, infrastructure, automation, and Linux systems ⚡️♾☁️   
+Patient in problem-solving, I value collaboration, agility, and an iterative approach toward continuous improvement.  
 
-### 🧰 ToolBox
-- Linux Machines (Ubuntu, RedHat)
-- Python • Go • Bash • SQL • JavaScript
-- Docker • Kubernetes | AWS EKS
-- Terraform • Ansible
-- GitHub Actions • Jenkins
-- Prometheus
-- PostgreSQL
-- Azure • AWS • IBM Cloud
+<img width="7696" alt="samancvdiagram" src="https://github.com/samanxsy/samanxsy/assets/118216325/17b1e83c-f3e9-4db6-8dd7-3c0aa7d2324e">
 
-### 📚 Education & Certificates
-- Computer Science Specialization - Rice University eCourse | [Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
-- IBM DevOps & Software Engineering Professional Certificate | [Certificate](https://coursera.org/share/c5055d7c2b497e4cf7faae9746c4f495) >> [Project Repo](https://github.com/samanxsy/devops-capstone-project)
-- DevOps on AWS Specialization | [Certificate](https://coursera.org/share/6122e2fba8b5c109afb3997b7f855f9b)
-- Scientific Computing with Python - FreeCodeCamp | [Certificate](https://www.freecodecamp.org/certification/samanxsy/scientific-computing-with-python-v7) >> [Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
-- Microsoft Azure Fundamentals Specialization | [Certificate](https://coursera.org/share/4286353511afcbd4d88bb6914812e35b)
-- Mathematics Diploma
+
+### Related Repositories
+- Computer Science Specialization - Rice University | [Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
+- IBM DevOps & Software Engineering | [Final Project Repo](https://github.com/samanxsy/devops-capstone-project)
+- Scientific Computing with Python - FreeCodeCamp | [Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)
+
+### Let's connect on [Linkedin](https://www.linkedin.com/in/samanxsaybani/)!
