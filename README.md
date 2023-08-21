@@ -1,6 +1,6 @@
 ## Hey there, This is Saman! 👋
 I'm passionate about cloud-native solutions, infrastructure, automation, and Linux systems ⚡️♾☁️   
-Patient in problem-solving, I value collaboration, agility, and an iterative approach toward continuous improvement.  
+Patient in problem-solving, I value collaboration, agility,  and an iterative - principled approach toward continuous improvement.  
 
 <img width="7280" alt="samancvdiagram" src="https://github.com/samanxsy/samanxsy/assets/118216325/cfdca95a-5e17-468d-b583-b716d5cffc26">  
 
