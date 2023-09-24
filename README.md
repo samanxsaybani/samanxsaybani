@@ -2,7 +2,7 @@
 I'm passionate about cloud-native solutions, infrastructure, automation, and Linux systems ⚡️♾☁️   
 Patient in problem-solving, I value collaboration, agility,  and an iterative - principled approach toward continuous improvement.  
 
-<img width="7280" alt="samancvdiagram" src="https://github.com/samanxsy/samanxsy/assets/118216325/cfdca95a-5e17-468d-b583-b716d5cffc26">  
+<img width="9204" alt="samancvdiagram 1" src="https://github.com/samanxsy/samanxsy/assets/118216325/697442fd-f6b4-4b61-ae7b-541c4f1c9e46">   
 
 ### Related Repositories
 - Computer Science Specialization - Rice University | [Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
