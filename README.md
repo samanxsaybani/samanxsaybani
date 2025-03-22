@@ -8,5 +8,3 @@ Patient in problem-solving, I value collaboration, agility,  and an iterative - 
 - Computer Science Specialization - Rice University | [Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
 - IBM DevOps & Software Engineering | [Final Project Repo](https://github.com/samanxsy/devops-capstone-project)
 - Scientific Computing with Python - FreeCodeCamp | [Projects Repo](https://github.com/samanxsy/fcc-scientific-computing-w-python)   
-
-### Explore my [terminal](https://samansaybani.com/) !
