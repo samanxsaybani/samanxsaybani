@@ -1,5 +1,5 @@
 ## Hey there, This is Saman! 👋
-Experienced Cloud Engineer with a passion for Automation & Continuous Improvement.
+Experienced and Multidisciplinary Cloud Engineer with a passion for Automation & Continuous Improvement.
 
 <img width="9120" height="6464" alt="samancvdiagram-4" src="https://github.com/user-attachments/assets/50acad51-ba93-4a7c-b304-250069845ef5" />
 
