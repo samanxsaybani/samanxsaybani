@@ -1,8 +1,7 @@
 ## Hey there, This is Saman! 👋
-I'm passionate about cloud-native solutions, infrastructure as code, automation, and Linux machines ⚡️♾☁️   
-Patient in problem-solving, I value collaboration, agility,  and an iterative - principled approach toward continuous improvement.  
+Experienced Cloud Engineer with a passion for Automation & Continuous Improvement.
 
-<img width="9204" alt="samancvdiagram" src="https://github.com/user-attachments/assets/611779c7-4cc8-451d-900d-c755d0877871" />
+<img width="9120" height="6464" alt="samancvdiagram-4" src="https://github.com/user-attachments/assets/50acad51-ba93-4a7c-b304-250069845ef5" />
 
 ### Related Repositories
 - Computer Science Specialization - Rice University | [Projects Repo](https://github.com/samanxsy/Rice-university-CS-projects)
